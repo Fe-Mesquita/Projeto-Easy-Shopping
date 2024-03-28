@@ -7,3 +7,9 @@
 - CSS
 <br>
 Com aplicação de responsividade para utilização em computadores, celulares e tablets.
+<br>
+<br>
+<br>
+<img src="https://github.com/Fe-Mesquita/Projeto-Easy-Shopping/blob/master/img.easyshopping.png?raw=true">
+<br>
+<br>
